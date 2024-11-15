@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap');
+
+  body {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 300;
+  color: rgb(240, 233, 233);
+  margin: 0;
+  background-image: url('./images/wepik-export-20231104160203pXyu.jpeg'); /* Add your background image URL */
+  background-size: cover; /* Adjust background size as needed */
+  background-repeat: no-repeat; /* Prevent background image from repeating */
+}
